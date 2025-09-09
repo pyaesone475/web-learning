@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<i><h1 style="font-size:300%;">Human & Beer</h1><i>
+<h1 style="background-color:rgb(200, 80, 90);">Hello Everyone</h1>
+
+<h1 style="color:blue;">Story</h1>
+</head>
+
+
+<body>
+
+
+<img src="image/hu.jpg" alt="photo" width="400" height="300">
+<img src="image/beer.jpg" alt="photo" width="400" height="300">
+
+
+
+
+</body>
+
+</html>
